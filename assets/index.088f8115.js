@@ -47,7 +47,7 @@ Error generating stack: `+i.message+`
  * LICENSE.md file in the root directory of this source tree.
  *
  * @license MIT
- */function ap(e){let{basename:t,children:n,window:r}=e,l=D.exports.useRef();l.current==null&&(l.current=Bd({window:r}));let i=l.current,[o,u]=D.exports.useState({action:i.action,location:i.location});return D.exports.useLayoutEffect(()=>i.listen(u),[i]),D.exports.createElement(up,{basename:t,children:n,location:o.location,navigationType:o.action,navigator:i})}const cp="/assets/ruleta.8e1ca867.png";var Wo={exports:{}},xl={};/**
+ */function ap(e){let{basename:t,children:n,window:r}=e,l=D.exports.useRef();l.current==null&&(l.current=Bd({window:r}));let i=l.current,[o,u]=D.exports.useState({action:i.action,location:i.location});return D.exports.useLayoutEffect(()=>i.listen(u),[i]),D.exports.createElement(up,{basename:t,children:n,location:o.location,navigationType:o.action,navigator:i})}const cp="/challengeroulette/assets/ruleta.8e1ca867.png";var Wo={exports:{}},xl={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
